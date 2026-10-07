@@ -64,7 +64,6 @@ Append CSV rows:
 Only standard library is used (socket, json, csv, urllib) so nothing
 needs to be pip-installed to use JSON/CSV output or InfluxDB writing.
 
-Author: generated for Erik / Finskas Networks Oy.
 """
 
 from __future__ import annotations
